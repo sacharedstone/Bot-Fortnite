@@ -1,2 +1,5 @@
 # Bot-Fortnite
-js
+Launch nodePackage and Start.
+# programming language
+Js
+# Goodbye
